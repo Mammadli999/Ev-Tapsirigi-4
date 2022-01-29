@@ -1,0 +1,16 @@
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ConsoleApp.Cars.exe
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ConsoleApp.Cars.deps.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ConsoleApp.Cars.runtimeconfig.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ConsoleApp.Cars.runtimeconfig.dev.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ConsoleApp.Cars.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ref\ConsoleApp.Cars.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\bin\Debug\net5.0\ConsoleApp.Cars.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.csproj.AssemblyReference.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.AssemblyInfoInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.AssemblyInfo.cs
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.csproj.CoreCompileInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ref\ConsoleApp.Cars.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\ConsoleApp.Cars\ConsoleApp.Cars\obj\Debug\net5.0\ConsoleApp.Cars.genruntimeconfig.cache

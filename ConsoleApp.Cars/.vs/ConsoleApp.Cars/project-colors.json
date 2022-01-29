@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9dabe9d-367a-450a-8240-250ec5fa2ec3": {
+      "ProjectGuid": "c9dabe9d-367a-450a-8240-250ec5fa2ec3",
+      "DisplayName": "ConsoleApp.Cars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
