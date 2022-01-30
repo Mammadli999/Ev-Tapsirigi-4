@@ -20,7 +20,7 @@ namespace ConsoleApp.Cars
         public int Kilometer;
         public string GearType;
         public string New;
-        public string Price;
+        public double Price;
 
 
         public string GetInfo() 
