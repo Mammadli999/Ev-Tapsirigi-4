@@ -41,7 +41,7 @@ namespace ConsoleApp.Cars
             cars2.Kilometer = 2500;
             cars2.GearType = "Avtomat";
             cars2.New = "No";
-            cars2.Price = "310.250";
+            cars2.Price = 310250;
 
             Cars[] cars = new Cars[2];
 
