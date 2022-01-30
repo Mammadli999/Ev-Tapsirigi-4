@@ -24,7 +24,7 @@ namespace ConsoleApp.Cars
             cars1.Kilometer = 6170;
             cars1.GearType = "Avtomat";
             cars1.New = "No";
-            cars1.Price = "425.000";
+            cars1.Price = 425000;
 
 
             Cars cars2 = new Cars();
